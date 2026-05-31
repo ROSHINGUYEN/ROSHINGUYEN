@@ -33,25 +33,28 @@ Status  : always building something cool...
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="120">
-      <img src="https://avatars.githubusercontent.com/tinhdo139209" width="100" style="border-radius:50%"/>
-      <br/>
-      <sub><b>tinhdo139209</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=tinhdo139209&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10&cache_seconds=1800&rank_icon=github" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhdo139209&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10&cache_seconds=1800&langs_count=8" />
+    <td align="center" valign="middle">
+      <img src="https://github-stats-alpha.vercel.app/api?username=tinhdo139209&cc=0d1117&tc=58A6FF&ic=58A6FF&bc=30363d" />
     </td>
   </tr>
 </table>
 
 </div>
 
+---
+
+## 🗣 Languages
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhdo139209&layout=bar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10&cache_seconds=1800&langs_count=8&custom_title=Languages+Usage+%25" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinhdo139209&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tinhdo139209&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinhdo139209&theme=tokyonight" />
 
 </div>
 
