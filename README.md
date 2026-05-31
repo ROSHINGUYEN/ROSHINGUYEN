@@ -31,22 +31,16 @@ Status  : always building something cool...
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=tinhdo139209&cc=0d1117&tc=58A6FF&ic=58A6FF&bc=30363d" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinhdo139209&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=tinhdo139209&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10&cache_seconds=1800" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhdo139209&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10&cache_seconds=1800&langs_count=8" />
-    </td>
-  </tr>
-</table>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinhdo139209&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tinhdo139209&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tinhdo139209&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tinhdo139209&theme=tokyonight&utcOffset=7"/>
 
 </div>
 
