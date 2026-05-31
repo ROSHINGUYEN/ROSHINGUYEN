@@ -6,7 +6,7 @@
 
 ### 🚀 Vibe Coding • Learning Lua + Java
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub;FiveM+Developer+%7C+Vibe+Coding;Learning+Lua+%2B+Java;Building+Server+%26+Ideas"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub;Vibe+Coding;Learning+Lua+%2B+Java;Building+Server+%26+Ideas"/>
 
 ![](https://komarev.com/ghpvc/?username=tinhdo139209&style=for-the-badge&color=blueviolet)
 
