@@ -31,18 +31,6 @@ Tools:
   - GitHub
 ```
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tinhdo139209&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhdo139209&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ### 🔥 Contribution Streak
 
 <div align="center">
