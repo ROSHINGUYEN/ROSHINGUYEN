@@ -2,7 +2,7 @@
 
 # 👋 ROSHIIIII ( TINH ĐỖ )
 
-<img src="GIF_LINK" width="700"/>
+<img src="https://share.creavite.co/6a1c20884e92eedc8479783f.gif" width="700"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub;Vibe+Coding+%7C+FiveM+Developer;Building+Something+Cool)](https://git.io/typing-svg)
 
