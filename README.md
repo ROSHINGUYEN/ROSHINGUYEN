@@ -57,7 +57,7 @@ Tools:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,lua,java,js,ts,nodejs,html,css,,git,github,vscode,blender"/>
+<img src="https://skillicons.dev/icons?i=python,lua,java,js,ts,nodejs,html,css,git,github,vscode,blender"/>
 
 </div>
 
