@@ -46,6 +46,55 @@ Status  : always building something cool...
 
 ---
 
+## 🗣️ Languages Used
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhdo139209&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10&langs_count=10&cache_seconds=1800&hide=html" />
+
+</div>
+
+<div align="center">
+
+<!-- Language bar manually synced — run scan_languages.py to update -->
+
+![TypeScript](https://img.shields.io/badge/TypeScript-97.19%25-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
+![CSS](https://img.shields.io/badge/CSS-1.54%25-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-0.53%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)
+![HTML](https://img.shields.io/badge/HTML-0.34%25-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117)
+![Kotlin](https://img.shields.io/badge/Kotlin-0.21%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-99.7%25_(repos)-3572A5?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-0.3%25_(repos)-384d54?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
+
+</div>
+
+---
+
+## 🔍 Scan My Code
+
+> Run this script locally to scan **all files** in any project and see language breakdown:
+
+```bash
+# Clone or copy scan_languages.py, then:
+python scan_languages.py /path/to/your/project
+```
+
+```
+══════════════════════════════════════════════════════════════
+  LANGUAGE          FILES     LINES       %    BAR
+══════════════════════════════════════════════════════════════
+  TypeScript           42     8,241   97.19%  ████████████████████
+  CSS                   5       130    1.54%  ░
+  JavaScript            3        45    0.53%  ░
+  HTML                  2        29    0.34%  ░
+  Kotlin                1        18    0.21%  ░
+══════════════════════════════════════════════════════════════
+  TOTAL                53     8,463  100.0%
+══════════════════════════════════════════════════════════════
+```
+
+---
+
 ## 🔥 Contribution Streak
 
 <div align="center">
