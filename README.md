@@ -2,77 +2,108 @@
 
 <img src="https://share.creavite.co/6a1c20884e92eedc8479783f.gif" width="850"/>
 
-# 💻 ROSHIIIII ( TỊNH ĐỖ)
+# 💻 ROSHIIIII ( TỊNH ĐỖ )
 
-### 🚀 Vibe Coding • Learning Lua + Java
+### ⚡ Vibe Coding • Learning Lua + Java • FiveM Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub;Vibe+Coding;Learning+Lua+%2B+Java;Building+Server+%26+Ideas"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+%F0%9F%9A%80;Vibe+Coding+%E2%9A%A1;Learning+Lua+%2B+Java;Building+FiveM+Server+%26+Ideas;Discord+Bot+%7C+UI+%2F+UX"/>
 
-![](https://komarev.com/ghpvc/?username=tinhdo139209&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=tinhdo139209&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-# 🌌 About Me
+## 🌌 About Me
 
 ```yaml
-Name: Roshi Nguyen
-Role: Vibe Coding
-Learning:
-  - Lua
-  - Java
-Focus:
-  - Discord Bot
-  - UI / UX
-Tools:
-  - VSCode
-  - Blender
-  - GitHub
+Name    : Roshi Nguyen ( Tịnh Đỗ )
+Role    : Vibe Coding
+Learning: [ Lua, Java ]
+Focus   : [ Discord Bot, UI/UX, FiveM Server ]
+Tools   : [ VSCode, Blender, GitHub ]
+Status  : always building something cool...
 ```
 
-### 🔥 Contribution Streak
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tinhdo139209&theme=tokyonight&hide_border=true"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tinhdo139209&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhdo139209&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-# ⚡ Tech Stack
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,lua,java,js,ts,nodejs,html,css,git,github,vscode,blender"/>
+<img src="https://streak-stats.demolab.com?user=tinhdo139209&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=10"/>
 
 </div>
 
-### 🛠 Bộ Công Nghệ FiveM / Builder
+---
 
-- Python
-- Lua
-- Java
-- JavaScript / TypeScript
-- NodeJS
-- HTML / CSS
-- Git + GitHub
-- VSCode
-- Blender
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tinhdo139209&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&radius=8"/>
+
+</div>
 
 ---
 
-# 🌐 Connect
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,lua,java,js,ts,nodejs,html,css,git,github,vscode,blender&theme=dark"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=2C2D72)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![NodeJS](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Blender](https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=E87D0D)
+
+</div>
+
+---
+
+## 🌐 Connect
 
 <div align="center">
 
 <a href="https://github.com/tinhdo139209">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/1247878077585948692">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </a>
 
 </div>
@@ -83,6 +114,6 @@ Tools:
 
 ### ⭐ Keep Building — Keep Learning
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2942,100:0d1117&height=120&section=footer&text=ROSHIIIII&fontColor=58A6FF&fontSize=24&fontAlignY=75&animation=fadeIn"/>
 
 </div>
