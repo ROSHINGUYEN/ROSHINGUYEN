@@ -4,7 +4,7 @@
 
 # 💻 ROSHIIIII ( TỊNH ĐỖ)
 
-### 🚀 Vibe Coding • FiveM Builder • Learning Lua + Java
+### 🚀 Vibe Coding • Learning Lua + Java
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub;FiveM+Developer+%7C+Vibe+Coding;Learning+Lua+%2B+Java;Building+Server+%26+Ideas"/>
 
@@ -18,12 +18,11 @@
 
 ```yaml
 Name: Roshi Nguyen
-Role: FiveM Builder / Vibe Coding
+Role: Vibe Coding
 Learning:
   - Lua
   - Java
 Focus:
-  - FiveM Development
   - Discord Bot
   - UI / UX
 Tools:
@@ -54,16 +53,6 @@ Tools:
 
 ---
 
-# 🏆 Thành Tích GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tinhdo139209&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 # ⚡ Tech Stack
 
 <div align="center">
@@ -80,34 +69,9 @@ Tools:
 - JavaScript / TypeScript
 - NodeJS
 - HTML / CSS
-- MySQL
 - Git + GitHub
 - VSCode
 - Blender
-
----
-
-# 🚀 My Products / Projects
-
-<div align="center">
-
-<a href="https://github.com/tinhdo139209/mã-NG-NH-P-WEB-V1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tinhdo139209&repo=mã-NG-NH-P-WEB-V1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/tinhdo139209/code-bot-discord">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tinhdo139209&repo=code-bot-discord&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/tinhdo139209/bot-server-cau-bar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tinhdo139209&repo=bot-server-cau-bar&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/tinhdo139209/hp-en-server">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tinhdo139209&repo=hp-en-server&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
 
 ---
 
@@ -119,7 +83,7 @@ Tools:
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://discord.com">
+<a href="https://discord.com/users/1247878077585948692">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
