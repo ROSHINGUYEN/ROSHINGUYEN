@@ -4,7 +4,7 @@
 
 # 💻 ROSHIIIII ( TỊNH ĐỖ )
 
-### ⚡ Vibe Coding • Learning Lua + Java • FiveM Builder
+### ⚡ Vibe Coding • Learning Lua + Java + C 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+%F0%9F%9A%80;Vibe+Coding+%E2%9A%A1;Learning+Lua+%2B+Java;Building+FiveM+Server+%26+Ideas;Discord+Bot+%7C+UI+%2F+UX"/>
 
@@ -19,8 +19,8 @@
 ```yaml
 Name    : Roshi Nguyen ( Tịnh Đỗ )
 Role    : Vibe Coding
-Learning: [ Lua, Java ]
-Focus   : [ Discord Bot, UI/UX, FiveM Server ]
+Learning: [ Lua, Java, C]
+Focus   : [ Discord Bot, UI/UX ]
 Tools   : [ VSCode, Blender, GitHub ]
 Status  : always building something cool...
 ```
