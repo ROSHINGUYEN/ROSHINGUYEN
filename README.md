@@ -4,11 +4,11 @@
 
 # 💻 ROSHIIIII ( TỊNH ĐỖ )
 
-### ⚡ Vibe Coding • Learning Lua + Java + C 
+### ⚡ S-TEAM DEVELOPER
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+%F0%9F%9A%80;Vibe+Coding+%E2%9A%A1;Learning+Lua+%2B+Java;Building+FiveM+Server+%26+Ideas;Discord+Bot+%7C+UI+%2F+UX"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+%F0%9F%9A%80;CHILL+%E2%9A%A1;MINECRAFT;Building+FiveM+Server+%26+Ideas;Discord+Bot+%7C+UI+%2F+UX"/>
 
-![](https://komarev.com/ghpvc/?username=tinhdo139209&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=ROSHINGUYEN&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ```yaml
 Name    : Roshi Nguyen ( Tịnh Đỗ )
-Role    : Vibe Coding
+Role    : S-TEAM DEVELOPER
 Learning: [ Lua, Java, C]
 Focus   : [ Discord Bot, UI/UX ]
 Tools   : [ VSCode, Blender, GitHub ]
@@ -47,14 +47,14 @@ Status  : always building something cool...
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinhdo139209&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tinhdo139209&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ROSHINGUYEN&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ROSHINGUYEN&theme=tokyonight" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinhdo139209&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROSHINGUYEN&theme=tokyonight" />
 
 </div>
 
@@ -64,7 +64,7 @@ Status  : always building something cool...
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tinhdo139209&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=ROSHINGUYEN&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=10"/>
 
 </div>
 
