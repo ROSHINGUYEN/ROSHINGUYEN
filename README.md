@@ -43,7 +43,7 @@
 ## 👨‍💻 Giới Thiệu (About Me)
 
 <!-- Float Right Coding Anime GIF -->
-<img align="right" alt="Coding GIF" width="270" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" alt="Coding GIF" width="280" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
 Xin chào! Tôi là **Tịnh Đỗ (Roshi)**, lập trình viên đến từ **Long An, Việt Nam**:
